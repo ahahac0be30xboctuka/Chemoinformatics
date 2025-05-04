@@ -1,4 +1,4 @@
-# Lectures on Chemoinformatics and Computational Synthetic Biology
+# Lectures on Cheminformatics and Computational Synthetic Biology
 
 ## Overview
 
@@ -69,7 +69,7 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 ## Contact
 
-For questions or feedback, please contact [your-email@example.com] or open an issue in the repository.
+For questions or feedback, please contact [shityakoff@hotmail.com] or open an issue in the repository.
 
 ## Acknowledgments
 
