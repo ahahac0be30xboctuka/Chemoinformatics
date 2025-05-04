@@ -79,7 +79,5 @@ For questions or feedback, please contact [shityakoff@hotmail.com] or open an is
 ---
 
 ## Notes
-- Replace `your-username` with your actual GitHub username in the clone URL.
-- Update the `[your-email@example.com]` placeholder with your contact information.
 - If you have specific tools, datasets, or dependencies, you can add them to the `Resources` or `Prerequisites` sections.
 - If the repository includes specific folders or files, you can list them explicitly under `Repository Contents`.
