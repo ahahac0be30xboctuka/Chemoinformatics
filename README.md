@@ -65,7 +65,7 @@ Contributions are welcome! If you have suggestions, additional resources, or imp
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+This project is licensed under the [GNU General Public License](LICENSE) - see the LICENSE file for details.
 
 ## Contact
 
